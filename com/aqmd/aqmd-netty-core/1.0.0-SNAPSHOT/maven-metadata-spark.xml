@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.aqmd</groupId>
+  <artifactId>aqmd-netty-core</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180823.024735</timestamp>
+      <buildNumber>50</buildNumber>
+    </snapshot>
+    <lastUpdated>20180823024735</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20180823.024735-50</value>
+        <updated>20180823024735</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20180823.024735-50</value>
+        <updated>20180823024735</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

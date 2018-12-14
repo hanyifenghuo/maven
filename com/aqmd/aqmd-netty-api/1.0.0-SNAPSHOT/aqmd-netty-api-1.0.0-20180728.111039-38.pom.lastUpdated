@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 30 09:17:22 CST 2018
+http\://maven.xinhuokj.com/repository/maven-public/.lastUpdated=1532913442603
+@default-nexus-http\://maven.oschina.net/content/groups/public/.lastUpdated=1532913442457
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact com.aqmd\:aqmd-netty-api\:pom\:1.0.0-20180728.111039-38 from/to nexus (http\://maven.oschina.net/content/groups/public/)\: maven.oschina.net
